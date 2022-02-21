@@ -1,0 +1,38 @@
+body{
+  background-color: #BFA2DB;
+}
+
+.jumbotron{
+  background-color: #C490E4;
+  font-family: "georgia", serif;
+  font-size: 60px;
+}
+
+
+.image1{
+  height: 300px;
+  width: 500;
+  position: absolute;
+  right: 100px;
+  top: 100px;
+}
+
+table{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+textarea{
+    display: block;
+    margin-bottom: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 5px;
+ }
+
+ button{
+    height: 60px;
+    width: 60px;
+ }
+
+ 
